@@ -21,8 +21,7 @@ public class AddionOfNumberInLoop {
 		}
 		while (ans == 'Y'  || ans == 'y');
 		System.out.println("Addition of previous number was = "+add);
-		
-
+		System.out.println("Added new changes in the file.");		
 	}
 
 }
